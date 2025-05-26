@@ -22,5 +22,6 @@ function getCarDetails(string memory vin) external view returns (string memory, 
 
 Transaction Hash:0xa9cb212dc928a725b7fd2b9f08742c6305cec80575b9aac2b0f0836ebf063043
 
-![image](https://github.com/user-attachments/assets/fa2cef4d-54c2-4ac9-a2fb-9494fa94b02d)
+![Screenshot 2025-05-26 143040](https://github.com/user-attachments/assets/a3c787e3-e614-4acf-8158-340f5e16168a)
+
 
