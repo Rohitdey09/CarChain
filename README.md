@@ -24,6 +24,15 @@ Transaction Hash:0xa9cb212dc928a725b7fd2b9f08742c6305cec80575b9aac2b0f0836ebf063
 Contract Address:0x598f82340375ec024b9d1f3fedce2794b311d5f6
 ```
 
+## 🚀 How to Deploy
+
+1. Go to [Remix IDE](https://remix.ethereum.org/).
+2. Paste the `CarChain.sol` code into a new file.
+3. Compile with Solidity version `^0.8.0`.
+4. Deploy the contract using the "Deploy" button in Remix.
+5. Use the functions in the Deployed Contracts panel to register cars and transfer ownership.
+
+
 ![Screenshot 2025-05-26 143040](https://github.com/user-attachments/assets/a3c787e3-e614-4acf-8158-340f5e16168a)
 
 
